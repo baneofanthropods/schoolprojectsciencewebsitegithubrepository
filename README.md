@@ -11,7 +11,7 @@ What is a solar eclipse? A solar eclipse is when the Moves in its revolution aro
 <img width="2500" height="1639" alt="Andraminshutterstock_1146598682-edited-scaled" src="https://github.com/user-attachments/assets/3a2d7ce8-09c8-4245-8314-74168441b3d0" />
 
 What is the difference between solar and lunar eclipses?
--
+- The difference between Lunar and Solar eclipses are easily visible from the human eye, but may be hard to explain. During a Solar eclipse the moon is 
 
 
 
