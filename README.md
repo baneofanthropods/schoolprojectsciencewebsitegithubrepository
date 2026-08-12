@@ -30,3 +30,6 @@ The difference between Lunar and Solar eclipses is easily visible to the human e
 |Rarity                 | Rare                           | Common                          |
 |Cause of rarity        | Moons shadow is small          | Earths shadow is massive        |
 |Fun Fact               | Make stars visible during the day | Red colour is called 'Blood Moon'|
+
+How does the alignment of the Sun, Earth, and Moon create different types of eclipses?
+-
