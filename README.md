@@ -18,8 +18,10 @@ What is the difference between solar and lunar eclipses?
 -
 The difference between Lunar and Solar eclipses is easily visible to the human eye, but may be hard to explain. During a Solar eclipse, the Moon moves directly between the Sun (on the left) and the Earth (on the right), as you can see in diagram 2. In Lunar eclipses, the Moon is on the very right, the Earth in the middle, and the Sun on the left side, as seen in diagram 1. Solar eclipses can only occur during a new moon, while Lunar eclipses can only occur during a full moon, meaning that they are opposite. During a Solar eclipse, the Moon gains something that looks like a fiery golden ring around it, with an aura that can make you blind. A Solar eclipse may not always be a total Solar eclipse, as it can also be a partial or annular Solar eclipse, which depends on how close the Sun, Moon, and Earth align. A Lunar eclipse turns the Moon into a fiery reddish colour, while it can become darker depending on the alignment of the planets. The key difference between the two types of eclipses is what gets blocked. A solar eclipse blocks the Sun, occurs during the day, and is only visible from limited areas on Earth at a time. A lunar eclipse, on the other hand, blocks sunlight from reaching the Moon, happens at night, and can be seen from large regions on Earth. Both eclipses occur due to the alignment of the Sun, Moon, and the Earth, but the size of Earth's shadow compared to the Moon makes Lunar eclipses far easier to witness.
 
-|Type:                  | Solar eclipse      | Lunar eclipse            |              
-|:----------------------| :------------:     | -------------:           |            
-|Alignment              | Moon-Earth-Sun      | Sun-Earth-Moon          |
-|Occurs during          | New Moon          | Full Moon                 |
-|Visibility from Earth: | Small area on Earth | One hemisphere of Earth |
+|Type:                  | Solar eclipse                  | Lunar eclipse                   |              
+|:----------------------| :------------:                 | -------------:                  |            
+|Alignment              | Moon-Earth-Sun                 | Sun-Earth-Moon                  |
+|Occurs during          | New Moon                       |Full Moon                        |
+|Visibility from Earth: | Small area on Earth            | One hemisphere of Earth         |
+|Appearance             | Moon gets an outer yellow ring | Moon turns red or darkens       |
+|Safety                 | Must use eye protection        | Safe to view from naked the eye |
