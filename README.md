@@ -21,7 +21,12 @@ The difference between Lunar and Solar eclipses is easily visible to the human e
 |Type:                  | Solar eclipse                  | Lunar eclipse                   |              
 |:----------------------| :------------:                 | -------------:                  |            
 |Alignment              | Moon-Earth-Sun                 | Sun-Earth-Moon                  |
-|Occurs during          | New Moon                       |Full Moon                        |
-|Visibility from Earth: | Small area on Earth            | One hemisphere of Earth         |
+|Occurs during          | New Moon                       | Full Moon                       |
+|Visibility from Earth  | Small area on Earth            | One hemisphere of Earth         |
 |Appearance             | Moon gets an outer yellow ring | Moon turns red or darkens       |
 |Safety                 | Must use eye protection        | Safe to view from naked the eye |
+|Time of day            | Happens during the day         | Happens during the night        |
+|Duration               | A few minutes                  | A few hours                     |
+|Rarity                 | Rare                           | Common                          |
+|Cause of rarity        | Moons shadow is small          | Earths shadow is massive        |
+|Fun Fact               | Make stars visible during the day | Red colour is called 'Blood Moon'|
