@@ -1,2 +1,1 @@
-What our exhibit describes
--
+The Earth, Sun, and Moon system
