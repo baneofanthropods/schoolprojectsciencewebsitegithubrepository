@@ -20,3 +20,6 @@ Our model demonstrates Solar and Lunar eclipses, which occur when the Earth, Sun
 
 Bibliography
 -
+- NASA 2024, Solar eclipses, NASA Solar System Exploration, viewed 25 August 2026, nasa.gov.
+- NASA 2026, Solar system exploration hub, NASA Science, viewed 25 August 2026, nasa.gov.
+- NASA Space Place 2025, What is an eclipse?, NASA Space Place: Explore Earth and Space!, viewed 25 August 2026, nasa.gov.
