@@ -8,7 +8,7 @@ Earth spins on its axis, completing one revolution every 24 hours, which is call
 
 Effects on Earth
 -
-Our model demonstrates Solar and Lunar eclipses, which occur when the Earth, Sun, and Moon align in a specific way. A solar eclipse occurs when the Moon moves between Earth and the Sun, casting a shadow that falls onto Earth, while a Lunar eclipse occurs when the Earth moves between the Sun and the Moon, causing Earth's shadow to fall on the Moon. These events depend on the angle of the Moons orbut and which hemisphere is positioned inside the shadow. During these alignments, the combined gravitational pull of the Sun and Moon also strengthens spring tides, producing higher high tides and lower low tides. These effects occur because gravity pulls ocean water into bulges that shift as the Moon moves around Earth.
+Our model demonstrates Solar and Lunar eclipses, which occur when the Earth, Sun, and Moon align in a specific way. A solar eclipse occurs when the Moon moves between Earth and the Sun, casting a shadow that falls onto Earth, while a Lunar eclipse occurs when the Earth moves between the Sun and the Moon, causing Earth's shadow to fall on the Moon. These events depend on the angle of the Moons orbit and which hemisphere is positioned inside the shadow. During these alignments, the combined gravitational pull of the Sun and Moon also strengthens spring tides, producing higher high tides and lower low tides. These effects occur because gravity pulls ocean water into bulges that shift as the Moon moves around Earth.
 
 
 
