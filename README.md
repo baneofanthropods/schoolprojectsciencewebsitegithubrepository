@@ -1,6 +1,6 @@
 The Earth, Sun, and Moon system
 -
-The Earth, Sun, and Moon system is a celestial system tied by gravitational attraction, which keeps each body in orbit. Gravity keeps Earth in its revolution around the Sun and keeps the Moon in its revolution around the Earth. Due to each body moving at different speeds and angles, this system is responsible for many repeating natural cycles that affect life on Earth. These include day and night, seasons, tides, moon phases, and eclipses. These cycles occur because of the constant movement of each body and the gravitational forces acting between them.
+The Earth, Sun, and Moon system is a celestial system tied by gravitational attraction, which keeps each body in orbit. Gravity keeps Earth in its orbit around the Sun and the Moon in its orbit around Earth. Because each body moves at different speeds and angles, this system drives many repeating natural cycles that affect life on Earth. These include day and night, seasons, tides, moon phases, and eclipses. These cycles occur because of the constant movement of each body and the gravitational forces acting between them.
 
 Movements
 -
