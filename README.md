@@ -6,7 +6,8 @@ Movements
 -
 Earth spins on its axis, completing one rotation every 24 hours, which is called one day (Michaelson,2018). This rotation causes day and night. As the planet spins, when one hemisphere is experiencing night, the other is experiencing day. This is because only one hemisphere can face the Sun at a time (LibreTexts,2021). Earth also completes one full revolution around the Sun every 365 days, creating the seasons (Lumenlearning.com,2026). The Moon rotates on its axis and completes one full revolution around the Earth in about 27.3 days, but the pattern of moon phases takes 29.5 days because Earth is also moving (Michaelson, 2018). A rotation is a spin on an internal axis, while a revolution is movement around another object (LibreTexts,2021). Gravity controls these motions and determines how the Sun, Earth, and Moon align throughout the year (Lumenlearning.com, 2026).
 
-Fig 1. <img src="https://thumbs.dreamstime.com/b/solar-system-interplay-chart-clipart-sun-earth-moon-interplay-clip-art-outer-space-day-night-month-solar-system-369208996.jpg" alt="Solar System Earth Sun Moon"/>
+Fig 1.
+<img src="https://thumbs.dreamstime.com/b/solar-system-interplay-chart-clipart-sun-earth-moon-interplay-clip-art-outer-space-day-night-month-solar-system-369208996.jpg" alt="Solar System Earth Sun Moon"/>
 
 Effects on Earth
 -
