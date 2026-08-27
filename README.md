@@ -36,5 +36,6 @@ Bibliography
   
 ‌- Alamy Limited (2025). Science eclipses chart clipart. Solar eclipse and lunar eclipse clip art infographic of sun, moon and earth in outer space and solar system. [online] Alamy.com. Available at: https://www.alamy.com/science-eclipses-chart-clipart-solar-eclipse-and-lunar-eclipse-clip-art-infographic-of-sun-moon-and-earth-in-outer-space-and-solar-system-image657015362.html [Accessed 27 Aug. 2026].
 ‌
+‌- hotcore.info. (2024). Edit image, resize image, crop pictures and appply effect to your images. [online] Available at: https://hotcore.info/act/kareff-082024p.html.
 ‌
 ‌
