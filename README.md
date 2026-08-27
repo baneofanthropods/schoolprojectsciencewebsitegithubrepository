@@ -4,7 +4,7 @@ The Earth, Sun, and Moon system is a celestial system tied by gravitational attr
 
 Movements
 -
-Earth spins on its axis, completing one rotation every 24 hours, which is called one day. This rotation causes day and night. As the planet spins, when one hemisphere is experiencing night, the other is experiencing day. This is because only one hemisphere can face the Sun at a time. Earth also completes one full revolution around the Sun every 365 days, creating the seasons. The moon rotates on its axis and completes one full revolution around the Earth in about 27 days, but the pattern of moon phases takes 29.5 days because Earth is also moving. A rotation is a spin on an internal axis, while a revolution is movement around another object. Gravity controls these motions and determines how the Sun, Earth, and Moon align throughout the year.
+Earth spins on its axis, completing one rotation every 24 hours, which is called one day. This rotation causes day and night. As the planet spins, when one hemisphere is experiencing night, the other is experiencing day. This is because only one hemisphere can face the Sun at a time. Earth also completes one full revolution around the Sun every 365 days, creating the seasons. The Moon rotates on its axis and completes one full revolution around the Earth in about 27.3 days, but the pattern of moon phases takes 29.5 days because Earth is also moving. A rotation is a spin on an internal axis, while a revolution is movement around another object. Gravity controls these motions and determines how the Sun, Earth, and Moon align throughout the year.
 
 Effects on Earth
 -
@@ -23,3 +23,9 @@ Bibliography
 - NASA 2024, Solar eclipses, NASA Solar System Exploration, viewed 25 August 2026, nasa.gov.
 - NASA 2026, Solar system exploration hub, NASA Science, viewed 25 August 2026, nasa.gov.
 - NASA Space Place 2025, What is an eclipse?, NASA Space Place: Explore Earth and Space!, viewed 25 August 2026, nasa.gov.
+- Lumenlearning.com. (2026). The Sun and the Earth-Moon System | Earth Science. [online] Available at: https://courses.lumenlearning.com/suny-earthscience/chapter/the-sun-and-the-earth-moon-system/  [Accessed 27 Aug. 2026].
+- Michaelson, A. (2018). Movements of the Sun, Moon & Earth. [online] Sciencing. Available at: https://www.sciencing.com/movements-sun-moon-earth-8351782/  [Accessed 27 Aug. 2026].
+- Libretexts (2021). 15.4: The Sun and the Earth-Moon System. [online] Geosciences LibreTexts. Available at: https://geo.libretexts.org/Courses/Lumen_Learning/Earth_Science_(Lumen)/15:_Stellar_Evolution_and_Our_Sun/15.04:_The_Sun_and_the_Earth-Moon_System  [Accessed 27 Aug. 2026].
+‌
+‌
+‌
