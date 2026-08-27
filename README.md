@@ -25,13 +25,14 @@ Fig 2 - Solar eclipse and Lunar eclipse
 
 Bibliography
 -
-- NASA 2024, Solar eclipses, NASA Solar System Exploration, viewed 25 August 2026, nasa.gov.
-- NASA 2026, Solar system exploration hub, NASA Science, viewed 25 August 2026, nasa.gov.
-- NASA Space Place 2025, What is an eclipse?, NASA Space Place: Explore Earth and Space!, viewed 25 August 2026, nasa.gov.
 - Lumenlearning.com. (2026). The Sun and the Earth-Moon System | Earth Science. [online] Available at: https://courses.lumenlearning.com/suny-earthscience/chapter/the-sun-and-the-earth-moon-system/  [Accessed 27 Aug. 2026].
+  
 - Michaelson, A. (2018). Movements of the Sun, Moon & Earth. [online] Sciencing. Available at: https://www.sciencing.com/movements-sun-moon-earth-8351782/  [Accessed 27 Aug. 2026].
+  
 - Libretexts (2021). 15.4: The Sun and the Earth-Moon System. [online] Geosciences LibreTexts. Available at: https://geo.libretexts.org/Courses/Lumen_Learning/Earth_Science_(Lumen)/15:_Stellar_Evolution_and_Our_Sun/15.04:_The_Sun_and_the_Earth-Moon_System  [Accessed 27 Aug. 2026].
+  
 ‌- Our-dogs.info. (2025). ContentKeeper Content Filtering. [online] Available at: https://ena.our-dogs.info/facts-f.html.
+
 ‌- Alamy Limited (2025). Science eclipses chart clipart. Solar eclipse and lunar eclipse clip art infographic of sun, moon and earth in outer space and solar system. [online] Alamy.com. Available at: https://www.alamy.com/science-eclipses-chart-clipart-solar-eclipse-and-lunar-eclipse-clip-art-infographic-of-sun-moon-and-earth-in-outer-space-and-solar-system-image657015362.html [Accessed 27 Aug. 2026].
 ‌
 ‌
