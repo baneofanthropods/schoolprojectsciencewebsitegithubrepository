@@ -4,7 +4,7 @@ The Earth, Sun, and Moon system is a celestial system tied by gravitational attr
 
 Movements
 -
-Earth spins on its axis, completing one rotation every 24 hours, which is called one day. This rotation causes day and night. As the planet spins, when one hemisphere is experiencing night, the other is experiencing day. This is because only one hemisphere can face the Sun at a time. Earth also completes one full revolution around the Sun every 365 days, creating the seasons. The Moon rotates on its axis and completes one full revolution around the Earth in about 27.3 days, but the pattern of moon phases takes 29.5 days because Earth is also moving. A rotation is a spin on an internal axis, while a revolution is movement around another object (LibreTexts,2021). Gravity controls these motions and determines how the Sun, Earth, and Moon align throughout the year (Lumenlearning.com, 2026).
+Earth spins on its axis, completing one rotation every 24 hours, which is called one day. This rotation causes day and night. As the planet spins, when one hemisphere is experiencing night, the other is experiencing day. This is because only one hemisphere can face the Sun at a time. Earth also completes one full revolution around the Sun every 365 days, creating the seasons. The Moon rotates on its axis and completes one full revolution around the Earth in about 27.3 days, but the pattern of moon phases takes 29.5 days because Earth is also moving (michaelson, 2018). A rotation is a spin on an internal axis, while a revolution is movement around another object (LibreTexts,2021). Gravity controls these motions and determines how the Sun, Earth, and Moon align throughout the year (Lumenlearning.com, 2026).
 
 Fig 1. Interplay of the Sun, Earth, and Moon
 -
