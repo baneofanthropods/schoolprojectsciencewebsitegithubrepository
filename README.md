@@ -1,6 +1,6 @@
 The Earth, Sun, and Moon system
 -
-The Earth, Sun, and Moon system is a celestial system tied by gravitational attraction, which keeps each body in orbit (Lumenlearning.com,2026). Gravity keeps Earth in its orbit around the Sun and the Moon in its orbit around Earth (LibreTexts,2021). Because each body moves at different speeds and angles, this system drives many repeating natural cycles that affect life on Earth. These include day and night, seasons, tides, moon phases, and eclipses (Michaelson,2018). These cycles occur because of the constant movement of each body and the gravitational forces acting between them (Lumenlearning.com,2026).
+The Earth, Sun, and Moon system is a celestial system tied by gravitational attraction, which keeps each body in orbit (Lumenlearning.com,2026). Gravity keeps Earth in its orbit around the Sun and the Moon in its orbit around Earth (LibreTexts,2021). Because each body moves at different speeds and angles, this system drives many repeating natural cycles that affect life on Earth. These include day and night, seasons, tides, moon phases, and eclipses (Michaelson,2018). These cycles occur because of the constant movement of each body and the gravitational forces acting between them (Lumenlearning.com,2026). 
 
 Movements
 -
